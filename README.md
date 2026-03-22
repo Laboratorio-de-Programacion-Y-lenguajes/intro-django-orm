@@ -1,4 +1,4 @@
-# TP 2 · Introducción a Django ORM y Persistencia
+# TP 4 · Introducción a Django ORM y Persistencia
 
 **Stack**: Python 3.13+, Django 5.1+, SQLite, Django ORM, Django `unittest`, Git/GitHub Classroom  
 **Entrega**: Repositorio de GitHub Classroom con autograding (GitHub Actions) — push a `main`.
